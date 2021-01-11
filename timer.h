@@ -1,10 +1,3 @@
-/*
- * time.h
- *
- *  Created on: 2019Äê3ÔÂ18ÈÕ
- *      Author: dengkai17334
- */
-
 #ifndef TIMER_H_
 #define TIMER_H_
 
